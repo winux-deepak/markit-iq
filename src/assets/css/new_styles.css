@@ -739,7 +739,15 @@ section#target .col-md-6 {
   }
 
   .carousel .slider-wrapper.axis-horizontal .slider {
-    align-items: flex-start !important;
+    align-items: center !important;
+  }
+
+  .carousel-section .carousel-item {
+    padding: 40px 30px !important;
+  }
+
+  .tab-content-section img {
+    width: 160px;
   }
 
   h1.home-title {
