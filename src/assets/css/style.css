@@ -2176,8 +2176,7 @@ p.testimonials-text {
   height: 100vh;
 }
 .service-content-left {
-  display: flex;
-
+  display: flex !important;
   height: 100%;
   width: 50%;
   /* background-color: rgb(157, 255, 0); */

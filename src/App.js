@@ -38,7 +38,7 @@ function App() {
               <Products />
               <ManagedServices />
               <CampaignManager />
-              <Service3 />
+              {/* <Service3 /> */}
               <Pricing />
               <OmniChannel />
               <ImageSection />

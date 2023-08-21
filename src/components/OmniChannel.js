@@ -3,7 +3,7 @@ import imac from '../assets/images/imac.png'
 
 function OmniChannel() {
     return (
-        <section className="section-blue">
+        <section className="section-blue blue-section">
         {/*begin container*/}
         <div className="container">
           {/*begin row*/}
