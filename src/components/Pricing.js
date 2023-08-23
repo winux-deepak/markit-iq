@@ -30,7 +30,7 @@ function Pricing() {
         </div>
 
         <div className="row">
-          <div className="col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-8 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -52,11 +52,10 @@ function Pricing() {
 
               <div className="pricing-bottom">
                 <ul>
-                  <li>1 GB of space</li>
-                  <li>200 messages</li>
-                  <li>unlimited updates</li>
-                  <li>1 user acounts</li>
-                  <li>2 databases</li>
+                  <li>Platform access</li>
+                  <li>Direct Mail (US) </li>
+                  <li>Digital Display (US & CA) </li>
+                  <li>Integrated data purchase </li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-blue">
                   REGISTER TODAY
@@ -65,7 +64,7 @@ function Pricing() {
             </div>
           </div>
 
-          <div className="col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-8 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -86,11 +85,13 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>1 GB of space</li>
-                  <li>200 messages</li>
-                  <li>unlimited updates</li>
-                  <li>1 user acounts</li>
-                  <li>2 databases</li>
+                  <li>Launch plus...</li>
+                  <li>CASS and NCOA included on list upload</li>
+                  <li>Mail tracking included </li>
+                  <li>10 landing pages </li>
+                  <li>1 domain </li>
+                  <li>Up to 5,000 Email contacts  </li>
+                  <li>Up to 7,500 Emails/month </li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-orange">
                   REGISTER TODAY
@@ -99,7 +100,7 @@ function Pricing() {
             </div>
           </div>
 
-          <div className="col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-8 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -120,11 +121,11 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>1 GB of space</li>
-                  <li>200 messages</li>
-                  <li>unlimited updates</li>
-                  <li>1 user acounts</li>
-                  <li>2 databases</li>
+                  <li>Starter plus... </li>
+                  <li>30 landing pages </li>
+                  <li>2 domain </li>
+                  <li>Up to 5,000 Email contacts </li>
+                  <li>Up to 15,000 Emails/month </li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-featured">
                   REGISTER TODAY
@@ -133,7 +134,7 @@ function Pricing() {
             </div>
           </div>
 
-          <div className="col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-8 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -154,11 +155,12 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>1 GB of space</li>
-                  <li>200 messages</li>
-                  <li>unlimited updates</li>
-                  <li>1 user acounts</li>
-                  <li>2 databases</li>
+                  <li>Growth plus...</li>
+                  <li>Branded white label portal</li>
+                  <li>70 landing pages</li>
+                  <li>7 domain</li>
+                  <li>Up to 7,500 Email contacts</li>
+                  <li>Up to 25,000 Emails/month</li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-blue">
                   REGISTER TODAY
@@ -167,7 +169,7 @@ function Pricing() {
             </div>
           </div>
 
-          <div className="col-sm-12 col-md-6 col-lg-3">
+          {/* <div className="col-sm-12 col-md-6 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -199,7 +201,7 @@ function Pricing() {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
 
         <div className="row">
