@@ -30,7 +30,7 @@ function Pricing() {
         </div>
 
         <div className="row">
-          <div className="col-sm-12 col-md-8 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -64,7 +64,7 @@ function Pricing() {
             </div>
           </div>
 
-          <div className="col-sm-12 col-md-8 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -100,7 +100,7 @@ function Pricing() {
             </div>
           </div>
 
-          <div className="col-sm-12 col-md-8 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
@@ -134,7 +134,7 @@ function Pricing() {
             </div>
           </div>
 
-          <div className="col-sm-12 col-md-8 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
