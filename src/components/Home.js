@@ -11,7 +11,8 @@ function Home() {
     <div className="row">
       {/*begin col-md-12*/}
       <div className="col-md-12 text-center" style={{padding:"90px"}}>
-        <h1 className="home-title wow fadeIn" data-wow-delay="0.5s">TAKE YOUR BUSINESS TO THE NEXT LEVEL WITH DATA DRIVEN TECHNOLOGY AND SERVICES </h1>
+        <h1 className="home-title wow fadeIn" data-wow-delay="0.5s">ELEVATE YOUR BRAND WITH DATA DRIVEN INSIGHTS & STRATEGIES
+</h1>
         <p className="home-subtitle wow fadeIn" data-wow-delay="1s">
         Market IQ tailored solutions keep you competitive and on the path to success. Our unique online tools provide what you need to create highly effective marketing strategies.
         </p>

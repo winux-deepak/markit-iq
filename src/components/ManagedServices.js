@@ -1,4 +1,4 @@
-import dataImg from "../assets/images/data-img.png";
+import dataImg from "../assets/images/business-people-gather-to-analyze-marketing-and-in-MiQ2.jpg";
 import marketingImg from "../assets/images/marketing-img.png";
 import cloneModeling from "../assets/images/clone-modelling.png";
 import dataHygine from "../assets/images/data-hygine.svg";
@@ -19,8 +19,7 @@ function ManagedServices() {
           <div className="col-sm-12 tc">
             <h3 className="tc">MANAGED SERVICES</h3>
             <h5 className="tc">
-              Markit IQ services are continuously tested and improved to support
-              new and emerging marketing channels
+            Unveil the magic behind achieving unparalleled marketing success. With Markit IQ, you're always ahead of the curve. We constantly adapt and grow, ensuring you're aligned with the freshest marketing trends.
             </h5>
           </div>
 

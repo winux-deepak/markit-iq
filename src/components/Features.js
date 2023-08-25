@@ -8,8 +8,7 @@ function Features() {
             <div className="col-sm-6">
               <h3>Features</h3>
               <h5>
-                Empower yourself with the ultimate resource for achieving
-                excellence in IT services.
+              Markit iQ empowers you with the capability to run a full-service data and marketing campaign with ease
               </h5>
   
               <ul>

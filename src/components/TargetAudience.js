@@ -1,4 +1,4 @@
-import collaboration from "../assets/images/collaboration.jpg";
+import collaboration from "../assets/images/business-people-in-a-meeting-miq1 1.png";
 import featureImg from "../assets/images/feature-img.png";
 import "../assets/css/new_styles.css";
 function TargetAudience() {
@@ -14,7 +14,7 @@ function TargetAudience() {
           className="col-md-6"
           style={{ display: "flex", gap: "20px", flexDirection: "column" }}
         >
-          <h3>TARGET YOUR AUDIENCE WITH PIN-POINT PRECISION</h3>
+          <h3>ENGAGE YOUR AUDIENCE WITH PERFECT TIMING</h3>
           <p>
             Your programmatic advertising should always leverage precision-built
             audiences and promote your business with outstanding, high-quality

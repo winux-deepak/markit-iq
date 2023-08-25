@@ -413,6 +413,8 @@ ul.campaign-section li:hover {
 .tab-content-section {
   display: flex;
   gap: 50px;
+  align-items: center;
+  padding: 50px 0;
 }
 
 .tab-content-section ul {
@@ -634,6 +636,12 @@ li.slide.selected:last-child {
   align-items: center !important;
   justify-content: center !important;
 }
+
+
+.tab-content-section img {
+  max-width: 475px !important;
+}
+
 
 /*media query*/
 

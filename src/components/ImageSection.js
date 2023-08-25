@@ -13,7 +13,7 @@ function ImageSection() {
             <div className="col-md-10 col-md-offset-1 text-center margin-top-110 margin-bottom-140">
               <h2 className="large-title white">Seen enough? Let's get started.</h2>
               <p className="section-subtitle white">No Fixed Contract. No Installation Required. Trusted &amp; Secure.</p>
-              <a href="#pricing" className="btn btn-lg btn-blue margin-top-20 scrool">TRY IT FOR FREE!</a>
+              <a href="#pricing" className="btn btn-lg btn-blue margin-top-20 scrool">Get Started</a>
             </div>
             {/*end col-md-6*/}
           </div>

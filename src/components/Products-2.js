@@ -31,8 +31,7 @@ function Products2() {
               }}
             >
               <h3 className="section-title">
-                OUR BEST-IN-CLASS PLATFORM HELPS YOU CONNECT WITH THE RIGHT
-                PEOPLE, THE FIRST TIME!
+              Dive deep into the world where our cutting-edge platform connects you to the right audience effortlessly.
               </h3>
               <div className="separator_wrapper">
                 <i className="icon icon-star-two red"></i>

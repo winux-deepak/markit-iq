@@ -1,4 +1,4 @@
-import productImg from "../assets/images/product-img.png";
+import productImg from "../assets/images/analyzing-marketing-tools-MiQ3.jpg";
 
 function Products() {
   return (
@@ -8,8 +8,7 @@ function Products() {
           <div className="col-sm-12 tc">
             <h3 className="tc">PRODUCTS</h3>
             <h5 className="tc">
-              Empower yourself with the ultimate resource for achieving
-              excellence in IT services.
+            Our products are designed to help you achieve successful and actionable marketing processes to get the correct insights from prospecting and retention to business enhancement.
             </h5>
           </div>
 
@@ -99,8 +98,7 @@ function Products() {
 
               <div className="col-sm-6">
                 <h5>
-                  Empower yourself with the ultimate resource for achieving
-                  excellence in IT services.
+                Don't let bad data muddy your campaign, having the right insight steers you in the right direction. the first time
                 </h5>
 
                 <ul>
@@ -122,7 +120,7 @@ function Products() {
                     data needs and challenges.
                   </li>
                 </ul>
-                <a href="#services" className="btn btn-theme margin-45">
+                <a href="#pricing" className="btn btn-theme margin-45">
                   VIEW DETAILS
                 </a>
               </div>
