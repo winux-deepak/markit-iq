@@ -153,6 +153,7 @@ h6 {
 h2.section-title {
   font-size: 36px;
   margin: 0 0 15px 0;
+  color: #664282;
 }
 
 h2.section-title.grey {
@@ -180,7 +181,7 @@ p.section-subtitle.grey {
 
 .separator_wrapper::after,
 .separator_wrapper::before {
-  background-color: #3498db;
+  background-color: #664282;
   display: inline-block;
   vertical-align: middle;
   content: "";
@@ -1345,6 +1346,7 @@ p.register_success_box {
   list-style-type: none;
   margin: 35px 0px 40px;
   padding: 0;
+  min-height: 260px;
 }
 
 .pricing-bottom ul li {
@@ -1354,8 +1356,8 @@ p.register_success_box {
 }
 
 .btn-pricing-orange {
-  color: #597283;
-  background-color: transparent;
+  color: #fff;
+  background-color: #ea3d12;
   border: 2px solid #ea3d12;
   padding: 14px 0;
   font-weight: 600;
@@ -1363,13 +1365,13 @@ p.register_success_box {
 
 .btn-pricing-orange:hover {
   color: #fff;
-  background-color: #ea3d12;
-  border: 2px solid #ea3d12;
+  background-color: #c12903;
+  border: 2px solid #c12903;
 }
 
 .btn-pricing-blue {
-  color: #3498db;
-  background-color: transparent;
+  color: #fff;
+  background-color: #3498db;
   border: 2px solid #3498db;
   padding: 14px 0;
   font-weight: 600;
@@ -1377,8 +1379,8 @@ p.register_success_box {
 
 .btn-pricing-blue:hover {
   color: #fff;
-  background-color: #3498db;
-  border: 2px solid #3498db;
+  background-color: #2682be;
+  border: 2px solid #2682be;
 }
 
 .btn-pricing-featured {
@@ -1390,9 +1392,9 @@ p.register_success_box {
 }
 
 .btn-pricing-featured:hover {
-  color: #664282;
-  background-color: transparent;
-  border: 2px solid #664282;
+  color: #fff;
+  background-color: #43265a;
+  border: 2px solid #43265a;
 }
 
 /* ========================================================== */
@@ -1815,8 +1817,8 @@ btn:hover {
 
 .navbar-default .navbar-nav > li > a.purchase:hover {
   color: #fff !important;
-  background-color: #e469b9;
-  border: 1px solid #e469b9;
+  background-color: #43265a;
+  border: 1px solid #43265a;
   transition: 0.5s;
 }
 
@@ -2030,6 +2032,7 @@ p.testimonials-text {
   box-shadow: -2px 8px 13px rgba(15, 15, 15, 0.077),
     10px 10px 13px rgba(15, 15, 15, 0.097);
   transition: 0.5s;
+  border-radius: 6px;
 }
 
 .product-card:hover {
@@ -2038,8 +2041,8 @@ p.testimonials-text {
   transition: 0.4s;
 }
 .product-card img {
-  width: 25px;
-  margin-right: 10px;
+  width: 50px;
+  margin-right: 20px;
 }
 
 .products a {

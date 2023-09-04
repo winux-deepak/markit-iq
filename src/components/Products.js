@@ -98,7 +98,7 @@ function Products() {
 
               <div className="col-sm-6">
                 <h5>
-                Don't let bad data muddy your campaign, having the right insight steers you in the right direction. the first time
+                Don't let bad data muddy your campaign, having the right insight steers you in the right direction the first time.
                 </h5>
 
                 <ul>

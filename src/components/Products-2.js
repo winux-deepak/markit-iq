@@ -3,7 +3,7 @@ import fpp3 from "../assets/images/Target.svg";
 import fpp4 from "../assets/images/Personnel.svg";
 import fpp45 from "../assets/images/Search.svg";
 import fpp6 from "../assets/images/Teamwork.svg";
-import fpp7 from "../assets/images/Sales Target.svg";
+import fpp7 from "../assets/images/navigator.svg";
 function Products2() {
   return (
     <div id="">
@@ -55,27 +55,27 @@ function Products2() {
 
             <div className="product-cards" style={{ textAlign: "left" }}>
               <div className="product-card">
-                <h4>
+                <h5>
                   <img src={computer} /> PERSONALIZED STORE FRONT
-                </h4>
+                </h5>
                 <p>
                   Launch e-commerce integrations in all the places customers
                   currently purchase from.
                 </p>
               </div>
               <div className="product-card">
-                <h4>
+                <h5>
                   <img src={fpp3} /> PARTNERS
-                </h4>
+                </h5>
                 <p>
                   Grow your business through partnerships like Amazon Ads with
                   an extended reach of 300 Million Customers.
                 </p>
               </div>
               <div className="product-card">
-                <h4>
-                  <img src={fpp7} /> IMPACT NAVIGATOR{" "}
-                </h4>
+                <h5>
+                  <img src={fpp7} /> IMPACT NAVIGATOR
+                </h5>
                 <p>
                   Plan and budget better with SaaS based real market trials to
                   gauge reach and impact.
@@ -83,27 +83,27 @@ function Products2() {
               </div>
 
               <div className="product-card">
-                <h4>
+                <h5>
                   <img src={fpp6} /> SOCIAL
-                </h4>
+                </h5>
                 <p>
                   Intuitive and user-friendly apps across multiple platforms to
                   keep clients connected.
                 </p>
               </div>
               <div className="product-card">
-                <h4>
+                <h5>
                   <img src={fpp4} /> LOCAL
-                </h4>
+                </h5>
                 <p>
                   Our platform transforms data into personalized and engaging
                   shopping experiences.
                 </p>
               </div>
               <div className="product-card">
-                <h4>
+                <h5>
                   <img src={fpp45} /> SEARCH
-                </h4>
+                </h5>
                 <p>
                   Plan and budget better with SaaS based real market trials to
                   gauge reach and impact.
