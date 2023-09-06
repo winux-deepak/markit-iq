@@ -44,18 +44,26 @@ function Pricing() {
                   />
                 </h3>
                 <p className="price">
-                  <span className="currency white">$</span>{" "}
-                  <span className="number white">49</span>{" "}
+                  <span className="currency white">$</span>
+                  <span className="number white">49</span>
                   <span className="month white">/month</span>
                 </p>
               </div>
 
               <div className="pricing-bottom">
                 <ul>
-                  <li>Platform access</li>
-                  <li>Direct Mail (US) </li>
-                  <li>Digital Display (US & CA) </li>
-                  <li>Integrated data purchase </li>
+                  <li>Platform Access</li>
+                  <li>Marketing and Deployment</li>
+                  <li>Upload your Artwork and Data List</li>
+                  <li>Campaign Automation</li>
+                  <li>Campaign Manager</li>
+                  <li>OTT/CTV Deployment</li>
+                  <li>Landing Page lite</li>
+                  <li>Direct Mail (US)</li>
+                  <li>Digital Display (US &amp; CA)</li>
+                  <li>Want to reach a wider audience?</li>
+                  <li>Leverage use of our data!</li>
+                  <li>Upgrade to the "Starter Package"</li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-blue">
                   REGISTER TODAY
@@ -78,20 +86,31 @@ function Pricing() {
                   />
                 </h3>
                 <p className="price">
-                  <span className="currency white">$</span>{" "}
-                  <span className="number white">99</span>{" "}
+                  <span className="currency white">$</span>
+                  <span className="number white">99</span>
                   <span className="month white">/month</span>
                 </p>
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>Launch plus...</li>
+                  <li>Everything in Launch, PLUS...</li>
+                  <li>Integrated data purchase</li>
+                  <li>Automated multi-channel marketing</li>
+                  <li>Digital + Direct Mail</li>
+                  <li>Integrated Landing Pages</li>
                   <li>CASS and NCOA included on list upload</li>
-                  <li>Mail tracking included </li>
-                  <li>10 landing pages </li>
-                  <li>1 domain </li>
-                  <li>Up to 5,000 Email contacts  </li>
-                  <li>Up to 7,500 Emails/month </li>
+                  <li>Mail tracking included</li>
+                  <li>Integrated list management</li>
+                  <li>1-1 Targeting</li>
+                  <li>Measurable results</li>
+                  <li>Mail tracking (US Only)</li>
+                  <li>Reporting</li>
+                  <li>10 landing pages</li>
+                  <li>1 domain</li>
+                  <li>Up to 5,000 Email contacts</li>
+                  <li>Up to 7,500 Emails/month</li>
+                  <li>Built in scheduler for recurring campaigns</li>
+                  <li>Launch campaign in minutes</li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-orange">
                   REGISTER TODAY
@@ -107,25 +126,31 @@ function Pricing() {
                 style={{ backgroundColor: "#664282" }}
               >
                 <h3>
-                  Growth{" "}
+                  Growth
                   <img
                     style={{ width: "30px", marginLeft: "10px" }}
                     src={fpp72}
                   />
                 </h3>
                 <p className="price">
-                  <span className="currency white">$</span>{" "}
-                  <span className="number white">199</span>{" "}
+                  <span className="currency white">$</span>
+                  <span className="number white">199</span>
                   <span className="month white">/month</span>
                 </p>
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>Starter plus... </li>
-                  <li>30 landing pages </li>
-                  <li>2 domain </li>
-                  <li>Up to 5,000 Email contacts </li>
-                  <li>Up to 15,000 Emails/month </li>
+                  <li>Everything in Starter, PLUS...</li>
+                  <li>Access to New Mover Data (US Only)</li>
+                  <li>Access to New Births Data (US Only)</li>
+                  <li>Access to New Homeowners (US Only)</li>
+                  <li>Insight analysis for Campaigns</li>
+                  <li>Personalized Data Access</li>
+                  <li>Retargeting</li>
+                  <li>30 landing pages</li>
+                  <li>2 domains</li>
+                  <li>Up to 5,000 Email contacts</li>
+                  <li>Up to 15,000 Emails/month</li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-featured">
                   REGISTER TODAY
@@ -148,8 +173,8 @@ function Pricing() {
                   />
                 </h3>
                 <p className="price">
-                  <span className="currency white">$</span>{" "}
-                  <span className="number white">299</span>{" "}
+                  <span className="currency white">$</span>
+                  <span className="number white">499</span>
                   <span className="month white">/month</span>
                 </p>
               </div>
@@ -169,39 +194,41 @@ function Pricing() {
             </div>
           </div>
 
-          {/* <div className="col-sm-12 col-md-6 col-lg-3">
+          <div className="col-sm-12 col-md-6 col-lg-3">
             <div className="pricing-box">
               <div
                 className="pricing-top"
-                style={{ backgroundColor: "#664282" }}
+                style={{ backgroundColor: "rgb(121 183 94)" }}
               >
                 <h3>
-                  Growth{" "}
+                  MiQ White Label
                   <img
                     style={{ width: "30px", marginLeft: "10px" }}
                     src={fpp72}
                   />
                 </h3>
                 <p className="price">
-                  <span className="currency white">$</span>{" "}
-                  <span className="number white">199</span>{" "}
+                  <span className="currency white">$</span>
+                  <span className="number white">199</span>
                   <span className="month white">/month</span>
                 </p>
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>1 GB of space</li>
-                  <li>200 messages</li>
-                  <li>unlimited updates</li>
-                  <li>1 user acounts</li>
-                  <li>2 databases</li>
+                  <li>Everything in Scale, PLUS...</li>
+                  <li>Full Access to Platform</li>
+                  <li>Access to our Power Analytics ($1500 Value)</li>
+                  <li>Great for managing your client base</li>
+                  <li>Boutique Agencies</li>
+                  <li>$3000 USD setup (Includes branding)</li>
+                  <li>$975.00 USD per month</li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-featured">
                   REGISTER TODAY
                 </a>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
 
         <div className="row">
@@ -215,7 +242,7 @@ function Pricing() {
           >
             <p>
               Haven't found a plan that suits your needs?
-              <span className="bold"> Contact us</span> for{" "}
+              <span className="bold"> Contact us</span> for
               <span className="bold"> Managed Services</span> pricing!
             </p>
             <a

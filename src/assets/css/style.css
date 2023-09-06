@@ -1290,7 +1290,7 @@ p.register_success_box {
 
 .pricing-box .pricing-top {
   padding: 25px 0;
-  min-height: 190px;
+  height: 150px;
   -webkit-border-radius: 5px 5px 0 0;
   -moz-border-radius: 5px 5px 0 0;
   border-radius: 5px 5px 0 0;
@@ -1302,7 +1302,7 @@ p.register_success_box {
 
 .pricing-top h3 {
   color: #fff;
-  font-size: 22px;
+  font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 10px;
   font-weight: 700;
@@ -1338,21 +1338,23 @@ p.register_success_box {
 }
 
 .pricing-bottom {
-  padding: 0 35px 40px 35px;
+  padding: 0 0px 40px;
 }
 
 .pricing-bottom ul {
   list-style: none;
   list-style-type: none;
-  margin: 35px 0px 40px;
+  margin: 4px 0px 40px;
   padding: 0;
   min-height: 260px;
 }
 
 .pricing-bottom ul li {
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 30px;
+  border-bottom: 1px solid #ddd;
+  padding: 6px 0px;
 }
 
 .btn-pricing-orange {
@@ -1389,12 +1391,19 @@ p.register_success_box {
   border: 2px solid #664282;
   padding: 14px 0;
   font-weight: 600;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .btn-pricing-featured:hover {
   color: #fff;
   background-color: #43265a;
   border: 2px solid #43265a;
+}
+
+.pricing-bottom a.btn {
+  width: 80%;
+  margin: 0 auto;
 }
 
 /* ========================================================== */

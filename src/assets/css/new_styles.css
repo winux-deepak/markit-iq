@@ -496,11 +496,11 @@ img.img-fluid {
 }
 
 .pricing-box .pricing-top {
-  padding: 25px 15px !important;
+  padding: 15px 15px !important;
 }
 
 section#pricing .row .col-sm-12.col-md-6.col-lg-3 {
-  width: 25%;
+  width: 20%;
 }
 
 .pricing-bottom ul li {
@@ -799,7 +799,7 @@ ul.products li:nth-child(3):hover .icon-cart svg path {
   }
 
   section#pricing .row .col-sm-12.col-md-6.col-lg-3 {
-    width: 25%;
+    width: 33%;
   }
 
   .carousel .slider-wrapper.axis-horizontal .slider .slide img {
@@ -808,6 +808,13 @@ ul.products li:nth-child(3):hover .icon-cart svg path {
   .pricing-bottom {
     min-height: 500px;
   }
+  section#pricing .container .row {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
 }
 
 @media screen and (max-width: 1024px) {
