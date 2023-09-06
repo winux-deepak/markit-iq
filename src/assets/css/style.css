@@ -314,6 +314,7 @@ iframe {
 
 .margin-top-110 {
   margin-top: 110px !important;
+  
 }
 
 .margin-top-100 {
@@ -1274,6 +1275,13 @@ p.register_success_box {
 /* 				            09. PRICING                       */
 /* ========================================================== */
 
+section#pricing .container .row {
+  height: auto;
+  display: flex;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
 .pricing-box {
   margin-left: 0px;
   margin-right: 0px;
@@ -1286,6 +1294,7 @@ p.register_success_box {
   border-left: 1px solid #e5e5e5;
   border-right: 1px solid #e5e5e5;
   border-bottom: 2px solid #e5e5e5;
+  height: 100%;
 }
 
 .pricing-box .pricing-top {
