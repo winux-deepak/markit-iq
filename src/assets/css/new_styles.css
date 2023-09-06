@@ -57,6 +57,13 @@ section#pricing li::before,
 section#features li::before {
   display: none;
 }
+ul.features-list-dark li {
+  display: flex;
+
+}
+ul.features-list-dark li i {
+  margin-right: 5px;
+}
 
 section.feature-section li {
   color: #454545;

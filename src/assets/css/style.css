@@ -1374,6 +1374,19 @@ section#pricing .container .row {
   font-weight: 600;
 }
 
+.btn-pricing-green {
+  color: #fff;
+  background-color: rgb(121, 183, 94);
+  border: 2px solid rgb(121, 183, 94);
+  padding: 14px 0;
+  font-weight: 600;
+}
+.btn-pricing-green:hover {
+  color: #fff;
+  background-color: rgb(97, 183, 63);
+  border: 2px solid rgb(97, 183, 63);
+}
+
 .btn-pricing-orange:hover {
   color: #fff;
   background-color: #c12903;
@@ -1402,6 +1415,22 @@ section#pricing .container .row {
   font-weight: 600;
   width: 80%;
   margin: 0 auto;
+}
+
+.btn-pricing-gold {
+  color: #fff;
+  background-color: #D4AF37;
+  border: 2px solid #D4AF37;
+  padding: 14px 0;
+  font-weight: 600;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.btn-pricing-gold:hover {
+  color: #fff;
+  background-color: #bb9b33;
+  border: 2px solid #bb9b33;
 }
 
 .btn-pricing-featured:hover {

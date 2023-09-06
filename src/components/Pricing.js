@@ -52,6 +52,9 @@ function Pricing() {
 
               <div className="pricing-bottom">
                 <ul>
+                  <li><a href className="btn btn-md btn-block btn-pricing-blue">
+                  REGISTER TODAY
+                </a></li>
                   <li>Platform Access</li>
                   <li>Marketing and Deployment</li>
                   <li>Upload your Artwork and Data List</li>
@@ -65,9 +68,7 @@ function Pricing() {
                   <li>Leverage use of our data!</li>
                   <li>Upgrade to the "Starter Package"</li>
                 </ul>
-                <a href className="btn btn-md btn-block btn-pricing-blue">
-                  REGISTER TODAY
-                </a>
+                
               </div>
             </div>
           </div>
@@ -76,7 +77,7 @@ function Pricing() {
             <div className="pricing-box">
               <div
                 className="pricing-top"
-                style={{ backgroundColor: "#EA3D12" }}
+                style={{ backgroundColor: "rgb(121, 183, 94)" }}
               >
                 <h3>
                   Starter
@@ -93,7 +94,10 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>Everything in Launch, PLUS...</li>
+                  <li><a href className="btn btn-md btn-block btn-pricing-green">
+                  REGISTER TODAY
+                </a></li>
+                  <li><b>Everything in LAUNCH, PLUS...</b></li>
                   <li>Integrated data purchase</li>
                   <li>Automated multi-channel marketing</li>
                   <li>Digital + Direct Mail</li>
@@ -112,9 +116,7 @@ function Pricing() {
                   <li>Built in scheduler for recurring campaigns</li>
                   <li>Launch campaign in minutes</li>
                 </ul>
-                <a href className="btn btn-md btn-block btn-pricing-orange">
-                  REGISTER TODAY
-                </a>
+                
               </div>
             </div>
           </div>
@@ -140,7 +142,10 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>Everything in Starter, PLUS...</li>
+                  <li><a href className="btn btn-md btn-block btn-pricing-featured">
+                  REGISTER TODAY
+                </a></li>
+                  <li><b>Everything in STARTER, PLUS...</b></li>
                   <li>Access to New Mover Data (US Only)</li>
                   <li>Access to New Births Data (US Only)</li>
                   <li>Access to New Homeowners (US Only)</li>
@@ -152,9 +157,7 @@ function Pricing() {
                   <li>Up to 5,000 Email contacts</li>
                   <li>Up to 15,000 Emails/month</li>
                 </ul>
-                <a href className="btn btn-md btn-block btn-pricing-featured">
-                  REGISTER TODAY
-                </a>
+                
               </div>
             </div>
           </div>
@@ -180,16 +183,17 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>Growth plus...</li>
+                  <li><a href className="btn btn-md btn-block btn-pricing-blue">
+                  REGISTER TODAY
+                </a></li>
+                  <li><b>GROWTH, PLUS...</b></li>
                   <li>Branded white label portal</li>
                   <li>70 landing pages</li>
                   <li>7 domain</li>
                   <li>Up to 7,500 Email contacts</li>
                   <li>Up to 25,000 Emails/month</li>
                 </ul>
-                <a href className="btn btn-md btn-block btn-pricing-blue">
-                  REGISTER TODAY
-                </a>
+                
               </div>
             </div>
           </div>
@@ -198,7 +202,7 @@ function Pricing() {
             <div className="pricing-box">
               <div
                 className="pricing-top"
-                style={{ backgroundColor: "rgb(121 183 94)" }}
+                style={{ backgroundColor: "#D4AF37" }}
               >
                 <h3>
                   MiQ White Label
@@ -215,16 +219,17 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li>Everything in Scale, PLUS...</li>
+                  <li> <a href className="btn btn-md btn-block btn-pricing-gold">
+                  REGISTER TODAY
+                </a></li>
+                  <li><b>Everything in SCALE, PLUS...</b></li>
                   <li>Full Access to Platform</li>
                   <li>Access to our Power Analytics ($1500 Value)</li>
                   <li>Great for managing your client base</li>
                   <li>Boutique Agencies</li>
                   <li>$3000 USD setup (Includes branding)</li>
                 </ul>
-                <a href className="btn btn-md btn-block btn-pricing-featured">
-                  REGISTER TODAY
-                </a>
+               
               </div>
             </div>
           </div>
