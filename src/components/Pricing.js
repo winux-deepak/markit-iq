@@ -209,7 +209,7 @@ function Pricing() {
                 </h3>
                 <p className="price">
                   <span className="currency white">$</span>
-                  <span className="number white">199</span>
+                  <span className="number white">975</span>
                   <span className="month white">/month</span>
                 </p>
               </div>
