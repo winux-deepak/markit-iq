@@ -319,6 +319,7 @@ ol.carousel-indicators li::before {
   position: relative;
   padding: 58px 0;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 .carousel .slider-wrapper.axis-horizontal .slider .slide img {
