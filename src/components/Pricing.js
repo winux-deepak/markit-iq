@@ -221,7 +221,6 @@ function Pricing() {
                   <li>Great for managing your client base</li>
                   <li>Boutique Agencies</li>
                   <li>$3000 USD setup (Includes branding)</li>
-                  <li>$975.00 USD per month</li>
                 </ul>
                 <a href className="btn btn-md btn-block btn-pricing-featured">
                   REGISTER TODAY
