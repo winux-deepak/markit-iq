@@ -166,7 +166,7 @@ function Pricing() {
             <div className="pricing-box">
               <div
                 className="pricing-top"
-                style={{ backgroundColor: "#3498db" }}
+                style={{ backgroundColor: "#29b997" }}
               >
                 <h3>
                   Scale
@@ -183,7 +183,7 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li><a href className="btn btn-md btn-block btn-pricing-blue">
+                  <li><a href className="btn btn-md btn-block btn-pricing-light-green">
                   REGISTER TODAY
                 </a></li>
                   <li><b>GROWTH, PLUS...</b></li>
@@ -251,7 +251,7 @@ function Pricing() {
             </p>
             <a
               href="#contact"
-              className="btn btn-md btn-block btn-pricing-blue"
+              className="btn btn-md btn-block btn-pricing-green"
             >
               Contact Us Now
             </a>

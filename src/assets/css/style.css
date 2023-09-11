@@ -1407,6 +1407,22 @@ section#pricing .container .row {
   border: 2px solid #2682be;
 }
 
+.btn-pricing-light-green {
+  color: #fff;
+  background-color: #29b997;
+  border: 2px solid #29b997;
+  padding: 14px 0;
+  font-weight: 600;
+}
+
+.btn-pricing-light-green:hover {
+  color: #fff;
+  background-color: #209278;
+  border: 2px solid #209278;
+}
+
+ 
+
 .btn-pricing-featured {
   color: #fff;
   background-color: #664282;

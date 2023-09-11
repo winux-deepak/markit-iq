@@ -59,7 +59,6 @@ section#features li::before {
 }
 ul.features-list-dark li {
   display: flex;
-
 }
 ul.features-list-dark li i {
   margin-right: 5px;
@@ -180,7 +179,7 @@ ul.products li h5 {
 }
 
 ul.products li:nth-child(2):hover {
-  background: #ea3d12;
+  background: rgb(121, 183, 94);
   color: #fff;
 }
 
@@ -727,12 +726,12 @@ i.icon.icon-star-two.red {
   color: #fff;
 }
 .product-card:nth-child(6) {
-  background: #3498db;
+  background: rgb(212, 175, 55);
   color: #fff;
 }
 
 .product-card:nth-child(6):hover {
-  background: #2c82bb;
+  background: rgb(177, 146, 45);
   color: #fff;
 }
 
@@ -741,12 +740,12 @@ i.icon.icon-star-two.red {
   color: #fff;
 }
 .product-card:nth-child(2) {
-  background: #ea3d12;
+  background: rgb(121, 183, 94);
   color: #fff;
 }
 
 .product-card:nth-child(2):hover {
-  background: #d83911;
+  background: rgb(98, 151, 75);
   color: #fff;
 }
 
@@ -755,17 +754,17 @@ i.icon.icon-star-two.red {
   color: #fff;
 }
 .product-card:nth-child(4) {
-  background: #664282;
+  background: #29b997;
   color: #fff;
 }
 
 .product-card:nth-child(4):hover {
-  background: #583970;
+  background: #209277;
   color: #fff;
 }
 
 ul.products li:nth-child(2) .icon-cart svg path {
-  fill: #ea3d12;
+  fill: rgb(121, 183, 94);
 }
 
 ul.products li:nth-child(2):hover .icon-cart svg path {
@@ -822,8 +821,11 @@ ul.products li:nth-child(3):hover .icon-cart svg path {
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
-}
-
+  }
+  .nav > li > a {
+    font-size: 14px !important;
+    padding: 0px 8px !important;
+  }
 }
 
 @media screen and (max-width: 1024px) {
