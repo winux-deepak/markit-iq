@@ -146,6 +146,9 @@ function Pricing() {
                   REGISTER TODAY
                 </a></li>
                   <li><b>Everything in STARTER, PLUS...</b></li>
+
+                  <li>2% Discounts on Digital deployments</li>
+                  <li>2% Discount on Data Purchases</li>
                   <li>Access to New Mover Data (US Only)</li>
                   <li>Access to New Births Data (US Only)</li>
                   <li>Access to New Homeowners (US Only)</li>
@@ -156,8 +159,6 @@ function Pricing() {
                   <li>2 domains</li>
                   <li>Up to 5,000 Email contacts</li>
                   <li>Up to 15,000 Emails/month</li>
-                  <li>2% Discounts on Digital deployments</li>
-                  <li>2% Discount on Data Purchases</li>
                 </ul>
                 
               </div>
@@ -189,13 +190,13 @@ function Pricing() {
                   REGISTER TODAY
                 </a></li>
                   <li><b>GROWTH, PLUS...</b></li>
+                  <li>5% Discounts on Digital deployments</li>
+                  <li>5% Discount on Data Purchases</li>     
                   <li>Branded white label portal</li>
                   <li>70 landing pages</li>
                   <li>7 domain</li>
                   <li>Up to 7,500 Email contacts</li>
                   <li>Up to 25,000 Emails/month</li>
-                  <li>5% Discounts on Digital deployments</li>
-                  <li>5% Discount on Data Purchases</li>     
                 </ul>
                 
               </div>
@@ -227,13 +228,14 @@ function Pricing() {
                   REGISTER TODAY
                 </a></li>
                   <li><b>Everything in SCALE, PLUS...</b></li>
+
+                  <li>10% Discounts on Digital deployments </li>
+                  <li>10% Discount on Data Purchases</li>
                   <li>Full Access to Platform</li>
                   <li>Access to our Power Analytics ($1500 Value)</li>
                   <li>Great for managing your client base</li>
                   <li>Boutique Agencies</li>
                   <li>$3000 USD setup (Includes branding)</li>
-                  <li>10% Discounts on Digital deployments </li>
-                  <li>10% Discount on Data Purchases</li>
                 </ul>
                
               </div>
