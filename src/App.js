@@ -19,6 +19,7 @@ import Service2 from "./components/Service2";
 import Service4 from "./components/Service4";
 import TargtAudience from "./components/TargetAudience";
 import Products2 from "./components/Products-2";
+import Products3 from "./components/Products-3";
 
 function App() {
   return (
@@ -33,6 +34,8 @@ function App() {
             <>
               <Home />
               <TargtAudience />
+              <Products3 />
+
               <Products2 />
               <Features render={() => <Features scrollTo="#features" />} />
               <Products />
