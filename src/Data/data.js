@@ -5,7 +5,7 @@ import iconTarget from "../assets/images/icon-target.svg";
 import iconIncrease from "../assets/images/icon-increase.svg";
 import iconSolutions from "../assets/images/icon-solutions.svg";
 import iconCampaign from "../assets/images/icon-campaign.svg";
-
+import iconAdd from "../assets/images/ad-icon.svg"
 export const json = {
   title: "CAMPAIGN MANAGER",
   description:
@@ -32,5 +32,12 @@ export const json = {
       icon: iconCampaign,
       title: "Measure the Effectiveness of Your Campaign",
     },
+    {
+      icon: iconAdd,
+      title: "Start a Programmatic Ad and Print Campaign in minutes",
+    },
   ],
 };
+
+
+

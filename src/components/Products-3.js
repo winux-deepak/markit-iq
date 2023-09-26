@@ -37,8 +37,9 @@ function Products3() {
                 </div>
 
                 <p>
-                  We can segment our location data based on a wide range of
-                  variables to meet your very unique audience targeting needs
+                  We can segment our location data based on <br/>
+                  a wide range of variables to meet your very unique <br/>
+                  audience targeting needs
                 </p>
               </li>
               <li>
@@ -59,10 +60,11 @@ function Products3() {
                   </svg>
                 </div>
                 <p>
-                  With access to over 10 Billion + business & consumer records
-                  Multiple robust customer marketing solutions 800+
-                  characteristics and attributes for consumer and business
-                  attributes for campaign enhancements
+                  With access to over 10 Billion <br/>
+                  + business & consumer records <br/><br/>
+                  Multiple robust customer marketing solutions <br/><br/>
+                  800+ characteristics and attributes for consumer and <br/>
+                  business attributes for campaign enhancements
                 </p>
               </li>
               <li>
@@ -89,9 +91,12 @@ function Products3() {
                   </svg>
                 </div>
                 <p>
-                  Hygiened data that is USPS ready Increased transparency &
-                  control Real-time measurement Greater efficiency Greater
-                  targeting capabilities Increased audience reach
+                Hygiene data that is USPS ready<br/>
+Increased transparency & control<br/>
+Real-time measurement<br/>
+Greater efficiency<br/>
+Greater targeting capabilities<br/>
+Increased audience reach
                 </p>
               </li>
             </ul>

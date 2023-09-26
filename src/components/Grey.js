@@ -1,6 +1,6 @@
 
 
-function Grey() {
+function Grey= ()=> {
     return (
         <section className="section-grey">
             <div className="container">

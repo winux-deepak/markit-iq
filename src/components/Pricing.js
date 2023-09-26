@@ -52,7 +52,7 @@ function Pricing() {
 
               <div className="pricing-bottom">
                 <ul>
-                  <li><a href className="btn btn-md btn-block btn-pricing-blue">
+                  <li><a href="https://app.markitiq.ai/" target="_blank" rel="noreferrer" className="btn btn-md btn-block btn-pricing-blue">
                   REGISTER TODAY
                 </a></li>
                   <li>Platform Access</li>
@@ -94,7 +94,7 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li><a href className="btn btn-md btn-block btn-pricing-green">
+                  <li><a href="https://app.markitiq.ai/" target="_blank" rel="noreferrer" className="btn btn-md btn-block btn-pricing-green">
                   REGISTER TODAY
                 </a></li>
                   <li><b>Everything in LAUNCH, PLUS...</b></li>
@@ -142,7 +142,7 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li><a href className="btn btn-md btn-block btn-pricing-featured">
+                  <li><a href="https://app.markitiq.ai/" target="_blank" rel="noreferrer" className="btn btn-md btn-block btn-pricing-featured">
                   REGISTER TODAY
                 </a></li>
                   <li><b>Everything in STARTER, PLUS...</b></li>
@@ -186,10 +186,10 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li><a href className="btn btn-md btn-block btn-pricing-light-green">
+                  <li><a href="https://app.markitiq.ai/" target="_blank" rel="noreferrer" className="btn btn-md btn-block btn-pricing-light-green"   >
                   REGISTER TODAY
                 </a></li>
-                  <li><b>GROWTH, PLUS...</b></li>
+                  <li><b>Everything in GROWTH, PLUS...</b></li>
                   <li>5% Discounts on Digital deployments</li>
                   <li>5% Discount on Data Purchases</li>     
                   <li>Branded white label portal</li>
@@ -224,7 +224,7 @@ function Pricing() {
               </div>
               <div className="pricing-bottom">
                 <ul>
-                  <li> <a href className="btn btn-md btn-block btn-pricing-gold">
+                  <li> <a href="https://app.markitiq.ai/" target="_blank" rel="noreferrer" className="btn btn-md btn-block btn-pricing-gold">
                   REGISTER TODAY
                 </a></li>
                   <li><b>Everything in SCALE, PLUS...</b></li>
@@ -252,10 +252,10 @@ function Pricing() {
               flexDirection: "column",
             }}
           >
-            <p>
+            <p className="plan">
               Haven't found a plan that suits your needs?
-              <span className="bold"> Contact us</span> for
-              <span className="bold"> Managed Services</span> pricing!
+              <span className="bold"> <a href="#contact">Contact us</a></span> for
+              <span className="bold"> <a href="#managed-services">Managed Services</a></span> pricing!
             </p>
             <a
               href="#contact"

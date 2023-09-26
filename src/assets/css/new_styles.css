@@ -162,7 +162,7 @@ ul.products li::before {
 
 ul.products li {
   text-align: center;
-  padding: 30px;
+  padding: 20px;
   border-right: 1px solid #ddd;
 }
 ul.products li:last-child {
@@ -393,8 +393,11 @@ ul.campaign-section li:nth-child(5) {
   border-bottom: 0;
 }
 
+ul.campaign-section li {
+  transition: all ease 0.5s;
+}
 ul.campaign-section li:hover {
-  background: rgba(52, 152, 219, 0.1);
+  background: #ffffffb5;
 }
 
 .tab-list ul li::before {
@@ -780,6 +783,16 @@ ul.products li:nth-child(3):hover .icon-cart svg path {
 
 .campaign-manager-section h3 {
   color: #664282;
+}
+
+.plan {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 30px 0 20px;
+}
+
+ul.campaign-section li:last-child {
+  border: none;
 }
 
 /*media query*/
