@@ -1,3 +1,4 @@
+import footerLogo from "../assets/images/footer-logo.png"
 
 function Footer() {
     return (
@@ -10,7 +11,9 @@ function Footer() {
             <div className="col-md-12 text-center">
                 {/*begin copyright */}
                 <div className="copyright">
-                <p className="footer-logo"><span className="blue">MARKIT</span> IQ</p>
+                <p className="footer-logo">
+                    <img src={ footerLogo } alt="footer logo"/>
+                </p>
                 {/* <p>Copyright © 2016. Designed &amp; Developed by <a href="http://themeforest.net/user/bogdan_09/portfolio?ref=bogdan_09" target="_blank">Bogdan Preda</a></p> */}
                 </div>
                 {/*end copyright */}

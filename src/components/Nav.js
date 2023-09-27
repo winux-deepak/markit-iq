@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-
+import headerLogo from "../assets/images/logo.png"
 function Nav() {
   return (
     <nav className="navbar navbar-default navbar-fixed-top">
@@ -18,7 +18,7 @@ function Nav() {
               <span className="icon-bar"></span>
             </button>
             <a href="index.html" className="navbar-brand brand scrool">
-              <span style={{ color: "#3498db" }}>Markit</span> IQ
+            <img src={ headerLogo } alt="footer logo"/>
             </a>
           </div>
 

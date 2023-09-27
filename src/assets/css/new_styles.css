@@ -795,6 +795,10 @@ ul.campaign-section li:last-child {
   border: none;
 }
 
+.navbar-brand {
+  padding: 4px 15px;
+}
+
 /*media query*/
 
 @media screen and (max-width: 1200px) {
