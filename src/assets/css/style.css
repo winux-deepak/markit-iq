@@ -1492,7 +1492,7 @@ textarea {
   height: 205px;
   margin-bottom: 20px;
   width: 100%;
-  padding-left: 2%;
+  padding-left: 1%;
   padding-right: 2%;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -2548,6 +2548,12 @@ span.chat-icon img {
   padding: 0 35px;
   text-align: left;
 }
+
+
+.col-md-12 {
+  width: 100%;
+}
+
 
 @media (min-width: 992px) {
   .col-md-6 {

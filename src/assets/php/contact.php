@@ -6,6 +6,10 @@ $field_subject = $_POST['subject'];
 
 $field_email = $_POST['email'];
 
+$field_email = $_POST['confirm email'];
+
+$field_company = $_POST['company'];
+
 $field_phone = $_POST['phone'];
 
 $field_message = $_POST['message'];
@@ -19,6 +23,10 @@ $body_message = 'From: '.$field_first_name."\n";
 $body_message .= 'Subject: '.$field_subject."\n";
 
 $body_message .= 'E-mail: '.$field_email."\n";
+
+$body_message .= 'Confirm-mail: '.$field_confirm_email."\n";
+
+$body_message = 'Company: '.$field_company."\n";
 
 $body_message .= 'Phone: '.$field_phone."\n";
 

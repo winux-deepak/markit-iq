@@ -24,11 +24,7 @@ function Footer() {
                     <i className="icon icon-twitter" />
                     </a>
                 </li>
-                <li>
-                    <a href="#">
-                    <i className="icon icon-pinterest" />
-                    </a>
-                </li>
+                
                 <li>
                     <a href="#">
                     <i className="icon icon-facebook" />
@@ -39,16 +35,8 @@ function Footer() {
                     <i className="icon icon-instagram" />
                     </a>
                 </li>
-                <li>
-                    <a href="#">
-                    <i className="icon icon-skype" />
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                    <i className="icon icon-dribble" />
-                    </a>
-                </li>
+              
+               
                 </ul>
                 {/*end footer_social */}
             </div>

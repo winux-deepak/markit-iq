@@ -796,7 +796,7 @@ ul.campaign-section li:last-child {
 }
 
 .navbar-brand {
-  padding: 4px 15px;
+  padding: 4px 15px !important;
 }
 
 /*media query*/
@@ -917,7 +917,7 @@ ul.campaign-section li:last-child {
 
   #contact-form {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
   }
 
   section#Service3 {
