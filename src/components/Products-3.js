@@ -2,7 +2,7 @@ import productImg from "../assets/images/analyzing-marketing-tools-MiQ3.jpg";
 
 function Products3() {
   return (
-    <section className="product-section grey-section" id="products">
+    <section className="product-section grey-section" id="">
       <div className="container">
         <div className="row text-left">
           <div className="col-sm-12 tc">
